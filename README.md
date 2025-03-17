@@ -7,6 +7,14 @@
 
 **ML Research Paper Implementation: Watch a neural network learn to recreate famous paintings in real-time!**
 
+
+
+
+
+
+https://github.com/user-attachments/assets/93abbf52-e092-47a5-8fbd-0e3147f6ae4d
+
+
 ## 📑 Research Overview
 
 This project implements a Multi-layer Perceptron (MLP) based diffusion model that learns continuous representations of images. The model maps 2D coordinates to color values, effectively recreating famous paintings pixel by pixel through a diffusion-like process.
